@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/nafiz2024/nafiz2024"><img src="https://i.ibb.co.com/9mw2RSSf/Chat-GPT-Image-Apr-27-2026-09-41-13-PM.png" alt="Chat-GPT-Image-Apr-27-2026-09-41-13-PM" border="0"></a>
+  <a href="https://github.com/nafiz2024/nafiz2024"> <img src="https://i.ibb.co.com/9mw2RSSf/Chat-GPT-Image-Apr-27-2026-09-41-13-PM.png" alt="Chat-GPT-Image-Apr-27-2026-09-41-13-PM" width="100%" height="300px" style="object-fit: cover;" /></a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Nafiz Alam</h1>
