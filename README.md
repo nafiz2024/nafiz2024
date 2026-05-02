@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nafiz2024/nafiz2024/main/banner.png" alt="Nafiz Alam Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nafiz2024/nafiz2024/main/Banner.png" alt="Nafiz Alam Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Nafiz Alam</h1>
